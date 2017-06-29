@@ -1,4 +1,4 @@
-(ns ^{:doc "S stack-based planning algorithm in Clojure for applying STRIPS-style operators."
+(ns ^{:doc "A stack-based planning algorithm in Clojure for applying STRIPS-style operators."
      :author "Simon Lynch"}
  org.clojars.cognesence.planner.core)
 
