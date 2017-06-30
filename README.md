@@ -1,5 +1,7 @@
 # Planner
 
+A stack-based planning algorithm in Clojure for applying STRIPS-style operators.
+
 Development notes:
 
 1. This planner has been tested with 3 different sets of operators but is still in "alpha" release. It has not been
@@ -103,10 +105,3 @@ The implementation of protections as sub-goals requires a separate operator as f
     :add  ((protected ?x ?c)  )
     }
 ```
-
-## License
-
-Copyright © 2017 Simon Lynch
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
