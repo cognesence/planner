@@ -105,3 +105,10 @@ The implementation of protections as sub-goals requires a separate operator as f
     :add  ((protected ?x ?c)  )
     }
 ```
+ 
+## License
+
+Copyright © 2017 Simon Lynch
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
